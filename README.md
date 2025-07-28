@@ -4,8 +4,8 @@
 
 ## Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/code-monty/blog-preview-card/tree/main
+- Live Site URL: https://code-monty.github.io/blog-preview-card/
 
 ## Built with
 
